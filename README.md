@@ -24,14 +24,9 @@ Just click on it to see the ingredients and instructions for the recipe. We wish
 - [React-toastify](https://www.npmjs.com/package/react-toastify)
 - [SplideJS](https://www.npmjs.com/package/@splidejs/splide)
 
-### What I learned
 
-I practiced with Redux Toolkit and learned to handle async actions with Redux Thunk Middleware.
 
-### Useful resources
-
-- [Redux Toolkit](https://redux-toolkit.js.org/) - The original documentation page about the redux toolkit was very helpful
 
 ## Author
 
-- GitHub - [@floatingsquat](https://github.com/floatingsquat)
+- GitHub - https://github.com/chanchalsingh24k/react-recipe-app-main.git
